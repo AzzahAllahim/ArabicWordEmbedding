@@ -20,6 +20,6 @@ DOI = {10.3390/app142311104}
 }
 
 
-## corpus access
+## Corpus access
 For those interested in accessing the corpus used to train these embeddings, please contact us via email: azzah.allahim@gmail.com.
 
