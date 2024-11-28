@@ -8,23 +8,14 @@ We kindly request that users of these models cite our paper.
 @Article{app142311104,
 
 AUTHOR = {Allahim, Azzah and Cherif, Asma},
-
 TITLE = {Advancing Arabic Word Embeddings: A Multi-Corpora Approach with Optimized Hyperparameters and Custom Evaluation},
-
 JOURNAL = {Applied Sciences},
-
 VOLUME = {14},
-
 YEAR = {2024},
-
 NUMBER = {23},
-
 ARTICLE-NUMBER = {11104},
-
 URL = {https://www.mdpi.com/2076-3417/14/23/11104},
-
 ISSN = {2076-3417},
-
 DOI = {10.3390/app142311104}
 }
 
